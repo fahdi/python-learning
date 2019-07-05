@@ -1,4 +1,4 @@
-""" Looping through values in the dictionary"""
+""" Looping through unique values in the dictionary"""
 
 favorite_languages = {
     'jen': 'python',
