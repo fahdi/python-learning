@@ -1,4 +1,4 @@
-""" Looping through keys in the dictionary"""
+""" Looping through values in the dictionary"""
 
 favorite_languages = {
     'jen': 'python',
@@ -8,5 +8,5 @@ favorite_languages = {
 }
 
 print("The following languages have been mentioned:")
-for person in favorite_languages.keys():
+for person in favorite_languages.values():
     print(person.title())
